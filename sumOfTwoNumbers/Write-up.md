@@ -12,7 +12,8 @@ Return $10$.
 
 ### languages
 
-- [C](./C/) - [see solution](./C/src/SumOfTwoNumbers.c)
+- [C](./C/Readme.md) - [see solution](./C/src/sumOfTwoNumbers.c)
+- [C++](./C++/Readme.md) - [see solution](./C++/src/sumOfTwoNumbers.cpp)
 
 ### Function Description
 

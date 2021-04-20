@@ -36,8 +36,12 @@ This section discusses the necessary dependencies to compile and test all algori
 
 ### Javascript
 
-- **Node.js** - To be able to run and test projects written on Javascript, we need to install [Node.js](http://nodejs.org
+- **Node.js** - To be able to run and test projects written on Javascript, we need to install [Node.js](http://nodejs.org)
 - **Jest** - This is the testing framework that Javascript projects will be using. **Note:** you do not require to install jest. by installing dependencies of projects, this package will be added automatically.
+
+### Python
+
+- **Python3** - All python projects have been tested with _python3_. You should assume and treat _python2_ as broken even though some projects might work fine in both.
 
 ## The Algorithms
 

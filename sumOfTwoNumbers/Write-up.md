@@ -16,6 +16,7 @@ Return $10$.
 - [C++](./C++/Readme.md) - [see solution](./C++/src/sumOfTwoNumbers.cpp)
 - [C#](./C%23/Readme.md) - [see solution](./C%23/SumOfTwoNumbers/Solution.cs)
 - [Javascript](./Javascript/Readme.md) - [see solution](./Javascript/src/SumOfTwoNumbers.js)
+- [Python](./Python/Readme.md) - [see solution](./Python/solution.py)
 
 ### Function Description
 

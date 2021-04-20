@@ -1,0 +1,16 @@
+{
+  "name": "sum_of_two_numbers",
+  "version": "1.0.0",
+  "description": "solution to sum of two numbers algorithm",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./src/main.js"
+  },
+  "author": "EnochMtzR",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^26.6.3"
+  }
+}

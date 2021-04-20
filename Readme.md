@@ -34,6 +34,11 @@ This section discusses the necessary dependencies to compile and test all algori
 
 - **NUnit** - The testing framework for .Net projects. **Note:** This will be installed automatically via Nuget by running `dotnet build`
 
+### Javascript
+
+- **Node.js** - To be able to run and test projects written on Javascript, we need to install [Node.js](http://nodejs.org
+- **Jest** - This is the testing framework that Javascript projects will be using. **Note:** you do not require to install jest. by installing dependencies of projects, this package will be added automatically.
+
 ## The Algorithms
 
 - [Sum of two Numbers](./sumOfTwoNumbers/Write-up.md)

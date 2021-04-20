@@ -26,6 +26,14 @@ This section discusses the necessary dependencies to compile and test all algori
 
 - **CMake** - All c / c++ projects use the CMake tool to build the project and test it.
 
-### The Algorithms
+- **GTest** - This is the google testing framework for C / C++ projects. **Note:** this dependency will be downloaded automatically by the CMake builder.
+
+### C\#
+
+- **.Net Core 3.1+ SDK/Runtime** - All C# projects are built using the .Net 5.0 SDK. However, all projects may be built using version 3.0 of .Net Core and up.
+
+- **NUnit** - The testing framework for .Net projects. **Note:** This will be installed automatically via Nuget by running `dotnet build`
+
+## The Algorithms
 
 - [Sum of two Numbers](./sumOfTwoNumbers/Write-up.md)
